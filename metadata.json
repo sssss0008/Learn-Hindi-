@@ -1,0 +1,6 @@
+{
+  "name": "Hindi Bhasha",
+  "description": "Learn Hindi language easily with trilingual support in Hindi, Nepali, and English. Features Varnamala, vocabulary, grammar, culture, and interactive practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

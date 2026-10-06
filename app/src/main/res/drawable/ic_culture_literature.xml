@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Parchment Scroll -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M24,32 C20,32 18,36 18,40 L18,84 C18,88 20,92 24,92 L86,92 C92,92 96,88 96,82 L96,38 C96,32 92,32 86,32 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M24,32 C20,32 18,36 18,40 C18,44 22,46 26,44 L26,92 C22,92 18,88 18,84 L18,40 Z" />
+    <!-- Scroll text lines -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M34,44 L80,44 L80,47 L34,47 Z" />
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M34,54 L84,54 L84,57 L34,57 Z" />
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M34,64 L74,64 L74,67 L34,67 Z" />
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M34,74 L80,74 L80,77 L34,77 Z" />
+    <!-- Golden Quill Feather across scroll -->
+    <path
+        android:fillColor="#D84315"
+        android:pathData="M102,18 C94,18 70,36 62,64 L66,66 C74,44 94,26 102,18 Z" />
+    <path
+        android:fillColor="#BF360C"
+        android:pathData="M62,64 L54,78 L64,72 Z" />
+    <path
+        android:fillColor="#212121"
+        android:pathData="M54,78 L50,84 L57,80 Z" />
+</vector>

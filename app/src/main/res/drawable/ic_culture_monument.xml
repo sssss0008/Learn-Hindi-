@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Base plinth -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M16,98 L104,98 L104,106 L16,106 Z" />
+    <path
+        android:fillColor="#A1887F"
+        android:pathData="M22,90 L98,90 L98,98 L22,98 Z" />
+    <!-- Main pillars -->
+    <path
+        android:fillColor="#D7CCC8"
+        android:pathData="M28,52 L36,52 L36,90 L28,90 Z" />
+    <path
+        android:fillColor="#D7CCC8"
+        android:pathData="M84,52 L92,52 L92,90 L84,90 Z" />
+    <!-- Archway outer -->
+    <path
+        android:fillColor="#BCAAA4"
+        android:pathData="M36,52 L84,52 L84,90 C84,66 74,60 60,60 C46,60 36,66 36,90 Z" />
+    <!-- Archway entrance shadow -->
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M44,90 C44,72 52,66 60,66 C68,66 76,72 76,90 Z" />
+    <!-- Central Dome -->
+    <path
+        android:fillColor="#FFCC80"
+        android:pathData="M60,18 C58,22 42,28 42,52 L78,52 C78,28 62,22 60,18 Z" />
+    <!-- Finial (Kalas) on top -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M59,8 L61,8 L61,18 L59,18 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M60,12m-3,0a3,3 0,1,1 6,0a3,3 0,1,1 -6,0" />
+    <!-- Side minarets -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M26,38 C24,42 22,46 22,52 L34,52 C34,46 32,42 30,38 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M90,38 C88,42 86,46 86,52 L98,52 C98,46 96,42 94,38 Z" />
+</vector>

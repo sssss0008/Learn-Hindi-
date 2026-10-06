@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Himalayan peaks in background -->
+    <path
+        android:fillColor="#E0F2FE"
+        android:pathData="M10,85 L38,40 L60,75 L82,32 L110,85 Z" />
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M38,40 L48,56 L30,68 Z" />
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M82,32 L92,52 L76,64 Z" />
+    <!-- Sun rising -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M60,48m-12,0a12,12 0,1,1 24,0a12,12 0,1,1 -24,0" />
+    <!-- River Ganges / Bagmati flowing -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M0,90 C30,80 45,95 70,88 C90,82 105,95 120,90 L120,115 L0,115 Z" />
+    <!-- Bridge connecting two shores -->
+    <path
+        android:fillColor="#78350F"
+        android:pathData="M18,92 C36,82 84,82 102,92 L102,98 C84,88 36,88 18,98 Z" />
+    <!-- Sacred Lotus at bottom center -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M60,94 C54,86 44,92 48,102 C54,106 60,108 60,108 C60,108 66,106 72,102 C76,92 66,86 60,94 Z" />
+    <path
+        android:fillColor="#FDA4AF"
+        android:pathData="M60,90 C56,84 50,88 53,95 C57,98 60,100 60,100 C60,100 63,98 67,95 C70,88 64,84 60,90 Z" />
+</vector>
